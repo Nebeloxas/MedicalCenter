@@ -10,6 +10,7 @@ public class MedicalCenter extends Canvas {
 	public final String TITLE = "Medical Center Application";
 	
 	//asdasdmjknijkbjkbbsad asd 
+	//labas as krabas
 
 	public static void main(String[] args) {
 		//asdasda
