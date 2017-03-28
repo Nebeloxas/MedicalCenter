@@ -8,6 +8,7 @@ public class MedicalCenter extends Canvas {
 	public static final int HEIGHT = WIDTH;
 	public static final int SCALE = 2;
 	public final String TITLE = "Medical Center Application";
+	
 
 	public static void main(String[] args) {
 		//asdasda
